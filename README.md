@@ -1,8 +1,8 @@
-#HR Analytics Dashboard 📊
+# HR Analytics Dashboard 📊
 ##Overview 👀
 This Power BI dashboard provides a comprehensive view of HR analytics, focusing on employee attrition across various dimensions. The dashboard offers insights into workforce demographics, turnover rates, and potential areas of concern for human resources management.
 
-##Key Metrics 🔑
+## Key Metrics 🔑
 Total Employees: 1,470
 Attrition Count: 237
 Attrition Rate: 16.1%
@@ -10,7 +10,7 @@ Average Age: 37 years
 Average Salary: $6,500
 Average Years at Company: 7
 
-##Dashboard Components 📈
+## Dashboard Components 📈
 1. Attrition by Gender 👫
 
 Visual representation of attrition split between male and female employees
@@ -65,7 +65,7 @@ Sales Representative: Fourth highest
 
 
 
-##Insights & Usage 💡
+## Insights & Usage 💡
 This dashboard enables HR professionals and management to:
 
 Identify high-risk groups for attrition
