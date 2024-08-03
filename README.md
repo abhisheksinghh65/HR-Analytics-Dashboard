@@ -75,3 +75,6 @@ Track the effectiveness of HR initiatives over time
 
 ##Technical Details 🖥️
 Data source: HR analytics dataset
+
+![Screenshot 2024-08-03 145518](https://github.com/user-attachments/assets/44ac9c2c-4f00-423a-853c-18dd08124952)
+
